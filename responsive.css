@@ -1,0 +1,458 @@
+/* ========================================================== (max-width: 1550px) ================================ */
+
+@media (max-width: 1550px) {
+  .information_container {
+    height: 60%;
+    width: 60%;
+  }
+
+  .information_container .information {
+    width: 39rem;
+  }
+
+  #Input_Output .input {
+    margin-left: 9rem;
+  }
+
+  .Input_Output_container {
+    width: 60vw;
+  }
+}
+
+/* ========================================================== (max-width: 1270px) ================================ */
+
+@media (max-width: 1270px) {
+  .information_container {
+    margin-left: 4rem;
+  }
+
+  html {
+    font-size: 56%;
+  }
+}
+
+/* ========================================================== (max-width: 1070px) ================================ */
+@media (max-width: 1070px) {
+  html {
+    font-size: 52%;
+  }
+  #contact .layer1 img {
+    width: 55rem;
+  }
+}
+
+/* ========================================================== (max-width: 1000px) ================================ */
+@media (max-width: 1000px) {
+  .Input_Output_container {
+    width: 65vw;
+  }
+
+  .information_container {
+    margin-left: 4rem;
+  }
+
+  .information_container {
+    height: 55%;
+    width: 40%;
+  }
+
+  .information_container .information {
+    width: 32rem;
+  }
+
+  .information_container .information h1 {
+    font-size: 2.2rem;
+  }
+
+  .information_container .information .info img {
+    width: 5rem;
+  }
+
+  .information_container .information .info .features span {
+    font-size: 1.3rem;
+  }
+}
+
+/* ========================================================== (max-width: 920px) ================================ */
+@media (max-width: 920px) {
+  .information_container {
+    display: none;
+  }
+
+  .Input_Output_container {
+    width: 100vw;
+  }
+
+  #Input_Output {
+    height: 55vh;
+  }
+}
+
+/* ========================================================== (max-width: 860px) ================================ */
+@media (max-width: 860px) {
+  html {
+    font-size: 45%;
+  }
+  #contact .layer1 img {
+    width: 65rem;
+  }
+
+  #contact .layer1 .info {
+    margin-left: 4rem;
+  }
+}
+
+/* ========================================================== (max-width: 770px) ================================ */
+@media (max-width: 780px) {
+  #contact .layer1 h1 {
+    font-size: 5rem;
+  }
+
+  #contact .layer1 .para1 {
+    font-size: 2.2rem;
+  }
+
+  #contact .layer1 .info {
+    margin-left: 7rem;
+  }
+
+  #contact {
+    height: 89vh;
+  }
+}
+
+/* ========================================================== (max-width: 780px) ================================ */
+@media (max-width: 780px) {
+  html {
+    font-size: 44%;
+  }
+  #contact {
+    height: 85vh;
+  }
+
+  #contact .layer1 h1 {
+    font-size: 4rem;
+  }
+
+  #contact .layer1 .para1 {
+    font-size: 2rem;
+  }
+}
+
+/* ========================================================== (max-width: 600px) ================================ */
+@media (max-width: 600px) {
+  html {
+    font-size: 41%;
+  }
+  #section1 .heading p {
+    font-size: 2.5rem;
+  }
+  .nav_menu {
+    margin-right: 4rem;
+  }
+  #contact {
+    height: 125vh;
+  }
+
+  #contact .layer2 {
+    flex-direction: column;
+  }
+
+  #contact .layer2 {
+    height: 80vh;
+    margin-top: 0rem;
+    align-items: center;
+  }
+
+  #contact .layer2 #sibu {
+    height: 36rem;
+    width: 50rem;
+  }
+  #contact .layer2 #biswajit {
+    height: 36rem;
+    width: 50rem;
+  }
+
+  #Input_Output .input {
+    margin-left: 4rem;
+  }
+  #contact .layer1 {
+    height: 25vh;
+  }
+
+  #contact .layer1 img {
+    width: 45rem;
+  }
+
+  #contact {
+    height: 110vh;
+  }
+}
+
+/* ========================================================== (max-width: 480px) ================================ */
+
+@media (max-width: 480px) {
+  #section1 {
+    height: 30%;
+    width: 121%;
+  }
+
+  html {
+    font-size: 40%;
+  }
+
+  #section1 .heading h1 {
+    font-size: 3.5rem;
+  }
+
+  .logo {
+    margin-left: 2rem;
+  }
+
+  .nav_menu .nav_lists li {
+    margin: 1.5rem;
+  }
+
+  #navbar {
+    height: 7vh;
+    align-items: center;
+  }
+
+  #section1 .heading p {
+    font-size: 2rem;
+    margin: rem 2rem;
+    margin: 0 2rem;
+    margin-bottom: 2rem;
+  }
+  #section1 .heading p {
+    font-size: 2rem;
+  }
+
+  .information_container .information {
+    display: none;
+  }
+
+  #Input_Output .input #email {
+    width: 40rem;
+  }
+
+  .Input_Output_container {
+    display: flex;
+    flex-direction: column;
+    width: 100vw;
+    height: 80vh;
+    align-items: baseline;
+  }
+
+  #Input_Output .input {
+    width: 100%;
+  }
+
+  #Input_Output .output {
+    justify-content: start;
+  }
+
+  #Input_Output .output {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+    height: auto;
+    margin-top: 4rem;
+  }
+
+  #Input_Output .output #format {
+    font-size: 2rem;
+    width: 100%;
+    text-align: center;
+    height: 4rem;
+    display: flex;
+    justify-content: center;
+    color: white;
+    border-radius: 3px;
+    margin-bottom: 2rem;
+    padding: 5px 5px;
+    margin-right: 20rem;
+  }
+  #Input_Output .output #scam {
+    font-size: 2rem;
+    width: 100%;
+    text-align: center;
+    height: 4rem;
+    display: flex;
+    justify-content: center;
+    color: white;
+    border-radius: 3px;
+    margin-bottom: 2rem;
+    padding: 5px 5px;
+    margin-right: 20rem;
+  }
+
+  #Input_Output .input {
+    margin-right: 30rem;
+  }
+
+  #contact .layer1 .info {
+    margin-left: 2rem;
+  }
+
+  #Input_Output {
+    height: 35vh;
+  }
+
+  #contact .layer1 {
+    height: 25vh;
+    width: 120%;
+  }
+
+  #contact {
+    height: 90vh;
+  }
+
+  #contact .layer1 img {
+    width: 35rem;
+    height: 35rem;
+  }
+
+  #contact .layer2 {
+    height: 65vh;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+  }
+
+  #contact .layer2 #sibu {
+    height: 36rem;
+    width: 50rem;
+  }
+  #contact .layer2 #biswajit {
+    height: 36rem;
+    width: 50rem;
+  }
+
+  footer {
+    width: 115%;
+  }
+
+  #contact .layer2 #sibu {
+    height: 38rem;
+    width: 56rem;
+    margin-left: 15rem;
+  }
+  #contact .layer2 #biswajit {
+    height: 38rem;
+    width: 56rem;
+    margin-left: 15rem;
+  }
+  .logo {
+    margin-left: 6rem;
+  }
+}
+
+/* ========================================================== (max-width: 430px) ================================ */
+@media (max-width: 430px) {
+  .nav_menu {
+    margin-right: 5rem;
+  }
+
+  .logo {
+    margin-left: 2rem;
+  }
+
+  #section1 .heading {
+    margin-right: 14rem;
+  }
+  #Input_Output .input {
+    margin-left: 2rem;
+  }
+
+  #section1 {
+    width: 130%;
+  }
+
+  #section1 .heading {
+    margin-right: 0rem;
+  }
+
+  #contact .layer2 #sibu {
+    height: 38rem;
+    width: 56rem;
+    margin-left: 18rem;
+  }
+  #contact .layer2 #biswajit {
+    height: 38rem;
+    width: 56rem;
+    margin-left: 18rem;
+  }
+
+  #Input_Output .output #format {
+    margin-right: 36rem;
+  }
+  #Input_Output .output #scam {
+    margin-right: 36rem;
+  }
+
+  #Input_Output .input #email {
+    width: 75%;
+  }
+
+  .Input_Output_container {
+    align-items: normal;
+  }
+
+  /* 
+    #Input_Output .output #format {
+        margin-right: 6rem;
+    }
+    #Input_Output .output #scam {
+        margin-right: 6rem;
+    } */
+
+  #contact {
+    height: 100vh;
+  }
+
+  #contact .layer2 {
+    height: 76vh;
+  }
+
+  #contact .layer1 {
+    width: 135%;
+  }
+
+  #contact .layer1 img {
+    width: 28rem;
+    height: 31rem;
+  }
+
+  #contact .layer1 .info {
+    margin-left: 7rem;
+  }
+
+  #contact .layer1 h1 {
+    font-size: 4rem;
+  }
+
+  /* footer .footer_section {
+    margin-right: 10rem;
+  } */
+
+  footer {
+    width: 135%;
+  }
+}
+
+/* ========================================================== (max-width: 330px) ================================ */
+@media (max-width: 330px) {
+  html {
+    font-size: 32%;
+  }
+
+  #contact .layer2 {
+    height: 76vh;
+    margin-left: 4rem;
+  }
+}
