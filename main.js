@@ -28,7 +28,7 @@ function Myfunction(){
         request.then((data) => {
             if(data.ok==true) {
                 formatVal.innerHTML=`Valid mail address format`;
-                document.getElementById("format").style.backgroundColor = "#4CAF50";
+                document.getElementById("format").style.backgroundColor = "rgb(99 216 104 / 85%)";
                 
             } 
             else if(data.ok==false){
@@ -42,7 +42,7 @@ function Myfunction(){
                 
             } else if (data.found==false) {
                 scamVal.innerHTML="Entered mail address is verified";
-                document.getElementById("scam").style.backgroundColor = "#4CAF50";
+                document.getElementById("scam").style.backgroundColor = "rgb(99 216 104 / 85%)";
             } 
             
             
