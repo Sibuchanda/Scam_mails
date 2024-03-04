@@ -52,10 +52,11 @@ I'm a front end developer...
 
 ## 🛠 Skills
 * HTML , CSS , JAVASCRIPT
-* JAVA
+* React Js
 * C++
 * C
 * SQL
+* Python
 * MongoDB
 
 ## Feedback
